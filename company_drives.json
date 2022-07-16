@@ -1,0 +1,23 @@
+[{
+    "company":"Zoho",
+    "date":"2020-10-2",
+    "appearedstudents": "person1,person3"
+      
+},
+{
+    "company":"Amazon",
+    "date":"2020-10-20",
+    "appearedstudents": "person2,person1"
+      
+},
+{
+    "company":"TCS",
+    "date":"2020-10-1",
+    "appearedstudents": "person1"
+      
+},
+{
+    "company":"Paypal",
+    "date":"2020-10-10",
+    "appearedstudents": "person2,person3"
+}]
